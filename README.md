@@ -2,7 +2,7 @@
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021  
-**Name:** Yavuz 
+**Name:** Yavuz  
 **Surname:** Sava  
 **Email:** yavuzsava@yahoo.com.tr  
 
