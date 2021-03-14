@@ -26,5 +26,5 @@ for i in range(10):
 
 #-------------------------results-------------------------#
 print("\nYou answered", right_answer_counter, "questions correctly. Your Score is", right_answer_counter*10)     #----score feedback----#
-if right_answer_counter < 5: print("You failed the competition. Please try again")
+if right_answer_counter <= 5: print("You failed the competition. Please try again")
 else: print("Congratulatons. You Won!")
